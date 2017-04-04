@@ -1,0 +1,9 @@
+
+ Restoring Model from last checkpoint ... 
+
+
+
+Completed TEST PHASE ... Results -> Net Average Cost =  5.68343559558 & Average Perplexity =  293.957616558 ... 
+
+ 
+Test phase returned following result :  (5.6834355955786293, 293.95761655786578)

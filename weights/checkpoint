@@ -1,0 +1,2 @@
+model_checkpoint_path: "PTB_Learner.ckpt"
+all_model_checkpoint_paths: "PTB_Learner.ckpt"
